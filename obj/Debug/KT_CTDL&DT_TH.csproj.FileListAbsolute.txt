@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\bin\Debug\KT_CTDL&DT_TH.exe.config
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\bin\Debug\KT_CTDL&DT_TH.exe
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\bin\Debug\KT_CTDL&DT_TH.pdb
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\obj\Debug\KT_CTDL&DT_TH.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\obj\Debug\KT_CTDL&DT_TH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\obj\Debug\KT_CTDL&DT_TH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\obj\Debug\KT_CTDL&DT_TH.exe
+C:\Users\Admin\source\repos\KT_CTDL&DT_TH\KT_CTDL&DT_TH\obj\Debug\KT_CTDL&DT_TH.pdb
