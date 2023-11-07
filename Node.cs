@@ -11,6 +11,10 @@ namespace KT_CTDL_DT_TH
         private int data;
         private Node next;
 
+        public Node()
+        {
+            data = 0;
+        }
         public Node(int data)
         {
             this.data = data;
@@ -26,6 +30,20 @@ namespace KT_CTDL_DT_TH
         {
             get { return this.next; }
             set { this.next = value; }
+        }
+        public Node AddLast(int value)
+        {
+            Node newNode = new Node(value);
+            next = newNode;
+            return newNode;
+        }
+        public int GetValue()
+        {
+            return data;
+        }
+        public Node GetNext()
+        {
+            return next;
         }
     }
 }

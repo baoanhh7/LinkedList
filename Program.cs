@@ -18,27 +18,34 @@ namespace KT_CTDL_DT_TH
 
             list.Output();
 
-            //Console.WriteLine("Is it empty? - " + list.Empty);
-            Console.WriteLine("Is it empty?(Method) - " + list.Empty_Method());
-            Console.WriteLine("Count - " + list.Count);
+            ////Console.WriteLine("Is it empty? - " + list.Empty);
+            //Console.WriteLine("Is it empty?(Method) - " + list.Empty_Method());
+            //Console.WriteLine("Count - " + list.Count);
 
-            Console.Write("Nhap so can tim: ");
-            int x = int.Parse(Console.ReadLine());
+            //Console.Write("Nhap so can tim: ");
+            //int x = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"So {x} o vi tri: {list.FindX(x)}");
+            //Console.WriteLine($"So {x} o vi tri: {list.FindX(x)}");
 
-            Console.WriteLine("Nhap vi tri va so can them: ");
-            int vt = int.Parse(Console.ReadLine());
-            int so = int.Parse(Console.ReadLine());
-            list.AddX(vt, so);
-            list.Output();
+            //Console.WriteLine("Nhap vi tri va so can them: ");
+            //int vt = int.Parse(Console.ReadLine());
+            //int so = int.Parse(Console.ReadLine());
+            //list.AddX(vt, so);
+            //list.Output();
 
-            list.DelX(3);
-            list.Output();
+            //list.DelX(3);
+            //list.Output();
 
-            list.SuaPT(4,99);
-            list.Output();
+            ////list.SuaPT(4,99);
+            //list.Output();
 
+            Queue queue = new Queue();
+            queue.enQueue(10);
+            queue.enQueue(30);
+            queue.enQueue(100);
+            Console.WriteLine($"Head of Queue: {queue.Peak()}");
+            while (!queue.Empty())
+                Console.WriteLine(queue.Dequeue());
             Console.ReadLine();
         }
     }
